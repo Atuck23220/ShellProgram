@@ -26,4 +26,4 @@ Developed by **Aaron Tuck** — April 2025.
 
 ### 1. Compile the Shell
 ```bash
-gcc -o sh257 shell_program.c csapp.c
+gcc -o sh257 shellex.c csapp.c
